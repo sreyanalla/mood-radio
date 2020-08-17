@@ -3,7 +3,7 @@
 Ask and share how you're feeling right now with your friends! After flashing the code onto your micro:bits, try pressing a button on or shaking it to tell someone how you feel!
 
 
-This project was designed for and coded at NSA and NSF's GenCyber Cybersecurity Camp at GWU.
+This project was designed for middle-school girls and coded at NSA and NSF's GenCyber Cybersecurity Camp at GWU.
 
 
 ### Help build and edit this project![Build status badge](https://github.com/sreyanalla/mood-radio/workflows/MakeCode/badge.svg)
