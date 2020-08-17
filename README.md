@@ -1,11 +1,10 @@
-Mood Radio
+## Mood Radio
 
-Ask and share how you're feeling right now with your friends!
+Ask and share how you're feeling right now with your friends! After flashing the code onto your micro:bits, try pressing a button on or shaking it to tell someone how you feel!
+
 
 This project was designed for and coded at NSA and NSF's GenCyber Cybersecurity Camp at GWU.
 
-
-> Open this page at [https://sreyanalla.github.io/mood-radio/](https://sreyanalla.github.io/mood-radio/)
 
 ## Use as Extension
 
@@ -31,7 +30,3 @@ This image may take a few minutes to refresh.
 
 ![A rendered view of the blocks](https://github.com/sreyanalla/mood-radio/raw/master/.github/makecode/blocks.png)
 
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
