@@ -5,6 +5,8 @@ Ask and share how you're feeling right now with your friends! After flashing the
 
 This project was designed for middle-school girls and coded at NSA and NSF's GenCyber Cybersecurity Camp at GWU.
 
+## Demo
+[Watch the Demo!](https://github.com/sreyanalla/mood-radio/blob/master/mood-radio.mov)
 
 ### Help build and edit this project![Build status badge](https://github.com/sreyanalla/mood-radio/workflows/MakeCode/badge.svg)
 
